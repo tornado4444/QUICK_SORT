@@ -1,0 +1,12 @@
+Train 1:
+Train number: 6
+Destination: Tokio
+Arrival time: 06:07:08
+Departure time: 14:23:06
+------------------------
+Train 2:
+Train number: 7
+Destination: Lviv
+Arrival time: 19:08:03
+Departure time: 20:19:18
+------------------------
