@@ -5,4 +5,6 @@ This code was developed using my method, you can use yours (I didn’t use class
 
 # ABOUT QUICK SORT:
 How, you know the Quick Sort - very popular, and and a fairly effective method for solving complex problems. One of the fastest known general-purpose array sorting algorithms: on average, O(n log ⁡n) swaps when sorting n elements; due to a number of shortcomings, it is usually used with some modifications in practice.
+# EXAMPLE
+
 ![image](https://miro.medium.com/v2/resize:fit:600/0*PCmwitk8VtXnJBoq.)
