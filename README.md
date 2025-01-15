@@ -1,6 +1,3 @@
-![GitHub commits difference between two branches/tags/commits](https://img.shields.io/github/commits-difference/:user/:repo)
-
-
 # QUCK_SORT ON THE MY TASK!
 On this repository, i decided to I decided to add an example of a task where quick sort can be used!
 ## WARNING:
