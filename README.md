@@ -10,7 +10,11 @@ How, you know the Quick Sort - very popular, and and a fairly effective method f
 ![image](https://miro.medium.com/v2/resize:fit:600/0*PCmwitk8VtXnJBoq.)
 
 Worst time: O(n^2).
-Best time: O(n log n) (regular division)
+
+Best time: O(n log n) (regular division).
+
 or O(n) (split into 3 parts).
-Average time: O(n log n)
+
+Average time: O(n log n).
+
 Memory cost O(n) auxiliary.
