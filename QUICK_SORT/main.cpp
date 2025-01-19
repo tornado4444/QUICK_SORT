@@ -4,7 +4,7 @@ int main() {
 	Information info; // Initialize the structure
 
 	if (!info.textFile("HATENESS.txt")) {
-		std::cout << "ERROR TO CREATE THE FILE!";
+		std::cerr << "ERROR TO CREATE THE FILE!";
 		return 1;
 	}
 
